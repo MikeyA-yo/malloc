@@ -1,4 +1,4 @@
-module malloc
+module github.com/MikeyA-yo/malloc
 
 go 1.23.2
 
